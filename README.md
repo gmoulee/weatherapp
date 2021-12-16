@@ -51,5 +51,3 @@ APIKEY : a80276406d7b499697372336904f4a87
 APIKEY is fetched from the environment variable.
 
 
-
-Things not done : Integration testing and splitting into microservices.
